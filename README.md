@@ -1,2 +1,2 @@
-# The Second Git Lab
-##Second Team Member: Pete Sergakis
+# Git Lab #2
+## First team member: John McKenna
