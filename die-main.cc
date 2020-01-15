@@ -1,6 +1,6 @@
 /* 
 *      Author: John McKenna 
-*        Date: 1/15/19 
+*        Date: 1/15/20 
 * Description: Main function for die class 
 */
 #include <iostream>
